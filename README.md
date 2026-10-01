@@ -7,7 +7,7 @@ Aspiring IT and Cloud professional building hands-on experience in networking, c
 ### Foundational Skills for IT Professionals
 **MyComputerCareer** | Completed September 2026
 
-📜 [View Certificate](mycomputercareer-foundational-it-skills-2026.png)
+📜 [View Certificate](mycomputercareer-foundational-it-skills-2026.pdf)
 
 Completed foundational IT training with hands-on coursework covering:
 
