@@ -7,7 +7,7 @@ Aspiring IT and Cloud professional building hands-on experience in networking, c
 
 My professional background includes technical operations in the United States Marine Corps, logistics, customer support, and ongoing IT infrastructure training through MyComputerCareer.
 
-📄 [View My Resume](RES-2019-00182.docx)
+📄 [View My Resume](RES-2019-00182.pdf)
 
 ## 🎓 Training & Certifications
 
