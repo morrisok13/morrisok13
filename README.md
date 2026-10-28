@@ -14,7 +14,7 @@ My professional background includes technical operations in the United States Ma
 ### Foundational Skills for IT Professionals
 **MyComputerCareer** | Completed September 2026
 
-📜 [View Certificate](mycomputercareer-foundational-it-skills-2026.pdf)
+📜 [View Certificate: Foundational Skills for IT Professionals](mycomputercareer-foundational-it-skills-2026.pdf)
 
 Completed foundational IT training with hands-on coursework covering:
 
