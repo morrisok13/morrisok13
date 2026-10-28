@@ -1,6 +1,13 @@
+
 # Kelly Morrison
 
 Aspiring IT and Cloud professional building hands-on experience in networking, cybersecurity, Microsoft Azure, Windows administration, and cloud infrastructure.
+
+## 📄 Resume
+
+My professional background includes technical operations in the United States Marine Corps, logistics, customer support, and ongoing IT infrastructure training through MyComputerCareer.
+
+📄 [View My Resume](RES-2019-00182.docx)
 
 ## 🎓 Training & Certifications
 
